@@ -3,7 +3,7 @@ This is a repo let you ask for Vue components.
 
 ## [new request](../../issues/new)
 
-## Guidelins
+## Guidelines
 
 - Use a succinct title and description.
 - Ensure request hasn't been asked for.
