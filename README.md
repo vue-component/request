@@ -1,7 +1,7 @@
 # request
-This is a repo let you ask Vue component requests.
+This is a repo let you ask for Vue components.
 
-## [Ask a request](../../issues/new)
+## [new request](../../issues/new)
 
 ## Guidelins
 
